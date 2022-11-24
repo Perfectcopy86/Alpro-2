@@ -1,0 +1,136 @@
+1. The Waterfall Model
+Waterfall adalah pendekatan SDLC paling awal yang digunakan untuk pengembangan perangkat lunak. Hal ini juga disebut sebagai model SDLC linear-sekuensial.
+Hal ini sangat sederhana untuk memahami dan menggunakanya dalam mengimplementasikan sebuah sistem.
+Dalam Model Waterfall, setiap tahap harus berurutan, dan tidak dapat meloncat ketahap berikutnya, 
+harus menyelesaikan tahap pertama baru lanjut ke tahap ke dua dst.
+Tahapan:
+- Requirement analysis and definition 
+- System and SW design
+- Implementation and unit testing
+- Integration and system testing
+- Operation and maintenance
+Contoh dari penerapan model pengembangan ini adalah pembuatan program pendaftaran online ke suatu Instansi Pendidikan.
+
+
+2. Model Rapid Application Development (RAD)
+
+Rapid Aplication Development (RAD) adalah sebuah model proses perkembanganperangkat lunak sekuensial linier yang menekankan
+siklus perkembangan yang sangat pendek (kira-kira 60 sampai 90 hari). Model RAD ini merupakan sebuah adaptasi “kecepatan tinggi”
+dari model sekuensial linier dimana perkembangan cepat dicapai dengan menggunakan pendekatan konstruksi berbasis komponen.
+Tahapan:
+- Bussiness Modeling
+- Data Modeling
+- Proses Modeling
+- Aplication Generation
+- Testing dan Turnover
+contoh dari penerapan model pengembangan ini adalah sistem penjualan online
+
+3. V Shapes Model
+The V-Model adalah model SDLC dimana pelaksanaan proses yang terjadi secara berurutan dalam bentuk-V. Dikenal juga sebagai model Verifikasi dan Validasi.
+The V-Model merupakan perluasan dari waterfall model dan didasarkan pada asosiasi dari fase pengujian untuk setiap tahap pengembangan yang sesuai.
+Ini berarti bahwa untuk setiap fase tunggal dalam siklus pengembangan, ada tahap pengujian terkait langsung. 
+Ini adalah model yang sangat disiplin dan tahap berikutnya dimulai setelah selesainya tahap sebelumnya.
+Tahapan :
+- Business Requirement Analysis
+- System Design
+- Architectural Design
+- Module Design
+- Coding Phase
+contoh dari penerapan model pengembangan ini adalah sistem informasi penyewaan alat berat
+
+
+1. Waterfall
+Model ini merupakan model yang cukup mudah untuk diimplementasikan.
+Selain waterfall model, ada juga modified waterfall model. Perbedaan utama
+waterfall model dengan modified waterfall model adalah pada suatu tahap modified
+waterfall model, pengembang dapat kembali ke tahapan sebelumnya. Sedangkan
+pada waterfall model, hal tersebut tidak bisa dilakukan.
+Kelebihan Waterfall
+● Kebutuhan dari sistem telah didefinisikan secara jelas sebelum
+dimulainya pengembangan.
+● Setiap tahapan memiliki bagiannya sendiri dan akan dilanjutkan ketika
+tahapan sebelumnya telah selesai.
+● Model ini adalah model linear sehingga mudah untuk diimplementasikan.
+● Sumber daya yang dibutuhkan untuk mengimplementasikan model ini
+sangatlah minimal.
+● Setiap tahapan dapat didokumentasikan untuk meningkatkan kualitas
+dalam pengembangan perangkat lunak.
+Kekurangan Waterfall
+● Bukan model yang bagus untuk proyek sekala besar.
+● Banyak resiko dan ketidakpastian.
+
+2.Iterative
+Model iteratif merupakan model yang membagi proyek menjadi bagian-bagian
+dalam sebuah iterasi yang di setiap iterasi menghasilkan produk dengan fitur/bagian
+tertentu. Dalam artian, proses pembuatan perangkat lunak dilakukan secara
+sederhana yang dilakukan berulang hingga mencapai sebuah perangkat lunak yang
+final. Perulangan itu dilakukan hingga mendapatkan hasil sebuah perangkat lunak
+yang mencapai tujuan perancangan.
+Kelebihan Iterative
+● Analisis resiko yang bagus.
+● Pengaturan yang mudah.
+● Mudah diimplementasikan.
+● Dapat merubah adanya kebutuhan sebuah sistem.
+Kekurangan Iterative
+● Resource yang dibutuhkan cukup banyak.
+● Tidak cocok untuk projek yang kecil.
+● Waktu yang ditempuh jauh lebih banyak.
+
+3. Spiral
+Model spiral merupakan penggabungan dari model prototyping dan model
+waterfall. Model prototyping yang fokus pada penyajian atau presentasi kepada
+user dengan format input dan output kemudian perangkat lunak akan dievaluasi.
+Model spiral menekankan pada Analisa resiko setiap
+tahapannya. Proses tersebut digambarkan menyerupai bentuk spiral. Proses ini
+merupakan proses iteratif sehingga dapat mengulang sebuah tahap berulang kali
+sehingga perangkat lunak dapat disempurnakan.
+Kelebihan Spiral
+● Dapat diubahnya kebutuhan sebuah sistem.
+● Pengguna dapat melihat sistem awal.
+● Proses pengembangan dapat dibagi menjadi beberapa bagian.
+Kekurangan Spiral
+● Pengelolaan yang kompleks
+● Produk akhir akan lama untuk dapat dicapai
+● Tidak cocok untuk projek kecil
+● Proses akan lebih kompleks
+
+1. linear Process Model
+Linear model itu harus melakukan proses sampai selesai atau sampai tuntas, baru bisa mengulang kembali prosesnya
+contohnya waterfall
+2. Iterative Process Model
+Iterative model bisa mengulang suatu proses, tanpa mengulang keseluruhan proses
+contohnya incremental, v shapes
+3. Evolutionary Process Model
+Evolutionary model itu prosesnya berulang - ulang (cycle)
+contoh spiral
+
+
+a. agile 
+karena agile adalah sebuah model yang memiliki waktu yang singkat dalam setiap
+iterasi.
+Kelebihan Agile
+● Sebuah model yang sangat realistis
+● Sangat bagus untuk kerja secara tim
+● Resource yang dibutuhkan sangat minimal
+● Mudah untuk dikelola
+● Perencanaan yang minimal
+Kekurangan Agile
+● Banyak resiko dalam pengelolaan sebuah software
+● Tidak cocok untuk menangani dependency yang kompleks
+
+b. Pertama melakukan tahap requirement dimana developer
+mendefinisikan kebutuhan dari pengguna, lalu tahap desain, menejerjemahkan kebutuhan tersebut
+ke dalam sebuah desain, selanjutnya tahap implementasi dimana mengubah desain ke dalam sebuah code
+terakhir tahap testing yaitu uji coba sistem untuk validasi kebenaran 
+
+c.Persyaratan fungsional
+Pernyataan layanan yang harus disediakan sistem, bagaimana sistem seharusnya
+bereaksi terhadap input tertentu dan bagaimana sistem harus berperilaku khususnya
+situasi.
+Dapat menyatakan apa yang tidak boleh dilakukan oleh sistem.
+Persyaratan non-fungsional
+Kendala pada layanan atau fungsi yang ditawarkan oleh sistem seperti
+kendala waktu, kendala pada proses pengembangan, standar, dll.
+Sering diterapkan pada sistem secara keseluruhan daripada fitur individual atau
+jasa
+

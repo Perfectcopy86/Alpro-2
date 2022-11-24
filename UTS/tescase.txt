@@ -1,0 +1,76 @@
+is
+3
+filmina 100 100 40000
+soania 80 90 38000
+bimolia 70 80 39000
+2
+tropi 60 100 45000
+braco 80 90 42000
+1
+suoco 110 90 43000
+
+ss
+3
+filmina 100 100 40000
+soania 80 90 38000
+bimolia 70 80 39000
+2
+tropi 60 100 45000
+braco 80 90 42000
+1
+suoco 110 90 43000
+
+bs
+3
+filmina 100 100 40000
+soania 80 90 38000
+bimolia 70 80 39000
+2
+tropi 60 100 45000
+braco 80 90 42000
+1
+suoco 110 90 43000
+
+qs
+3
+filmina 100 100 40000
+soania 80 90 38000
+bimolia 70 80 39000
+2
+tropi 60 100 45000
+braco 80 90 42000
+1
+suoco 110 90 43000
+
+
+
+Per Supplier:
+Supplier 1:
+filmina 100 100 40000 - 200
+soania 80 90 38000 - 223.52
+bimolia 70 80 39000 - 260
+
+Supplier 2:
+braco 80 90 42000 - 247.05
+tropi 60 100 45000 - 281.25
+
+Supplier 3:
+suoco 110 90 43000 - 215
+
+Semua:
+filmina 100 100 40000 - 200 Supplier 1
+suoco 110 90 43000 - 215 Supplier 3
+soania 80 90 38000 - 223.52 Supplier 1
+braco 80 90 42000 - 247.05 Supplier 2
+bimolia 70 80 39000 - 260 Supplier 1
+tropi 60 100 45000 - 281.25 Supplier 2
+
+
+
+suplier1[i].kalori
+suplier1[i].lemak
+suplier1[i].harga 
+
+keyhar
+keylem
+keykal
