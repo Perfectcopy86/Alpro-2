@@ -1,0 +1,7 @@
+/*Saya Rasyid Andriansyah NIM 2101963 mengerjakan kuis 1 soal 2 Alpro2 (deret322) dalam mata kuliah Algoritma dan Pemrograman 2
+untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.*/
+
+#include <stdio.h>
+
+
+void hasil(int a, int b, int c, int d);//prosedur untuk rekursif

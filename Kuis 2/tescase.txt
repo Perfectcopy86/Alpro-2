@@ -1,0 +1,41 @@
+3
+nasi_campur 5000 beji 50
+nasi_kari 10000 plaza 60
+nasi_empal 11000 kauman 70
+harga
+7000
+
+3
+nasi_campur 25000 beji 50
+nasi_kari 10000 plaza 60
+nasi_empal 11000 kauman 70
+harga
+7000
+
+
+tidak ditemukan
+
+3
+nasi_campur 5000 beji 50
+nasi_kari 10000 plaza 60
+nasi_empal 11000 kauman 70
+kalori
+70
+
+nama makanan: nasi_empal
+harga: 11000
+tempat penjualan: kauman
+persen kalori: 70
+
+4
+nasi_campur 10000 beji 50
+nasi_kari 7000 plaza 60
+nasi_empal 11000 kauman 70
+cilok 5000 udin 80
+harga
+5000
+
+nama makanan: nasi_campur
+harga: 5000
+tempat penjualan: beji
+persen kalori: 50
