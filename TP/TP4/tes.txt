@@ -1,0 +1,50 @@
+4
+aaabb 1.41
+aaaaa 2.35
+bccca 0.33
+dddac 1.00
+selection
+desc
+durasi
+
+6
+iwontgiveup 4.00
+hello 4.55
+7rings 2.58
+darari 3.41
+fixyou 4.55
+talkingtothemoon 3.37
+insertion
+desc
+judul
+
+6
+iwontgiveup 4.00
+hello 4.55
+7rings 2.58
+darari 3.41
+fixyou 4.55
+talkingtothemoon 3.37
+selection
+asc
+judul
+
+2
+aaabb 1.41
+aaaaa 2.35
+selection
+desc
+durasi
+
+8
+diamdiamsuka 4.41
+hatihatidijalan 4.02
+begadang 3.15
+monokrom 3.34
+balonku 1.12
+sampaijadidebu 6.48
+melawanrestu 3.39
+abangtukangbakso 2.22
+selection
+desc
+durasi

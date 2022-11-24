@@ -1,0 +1,35 @@
+7
+MieInstan 300 80
+AyamGoreng 1040 350
+Sambal 86 38
+Rendang 482 250
+Siomay 310 225
+Tahu 236 118
+Nasi 200 260
+b
+a
+
+Daftar Menu Makanan :
+Nasi        200   260
+Siomay      310   225
+Rendang     482   250
+Tahu        236   118
+Sambal      86    38
+AyamGoreng  1040  350
+MieInstan   300   80
+
+5
+Spaghetti 834 570
+Salad 45 300
+RotiRawar 682 157
+Cereal 1128 300
+Kentang 50 62
+q
+d
+
+Daftar Menu Makanan :
+RotiRawar  682   157
+Cereal     1128  300
+Spaghetti  834   570
+Kentang    50    62
+Salad      45    300

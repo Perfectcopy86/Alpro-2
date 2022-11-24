@@ -1,0 +1,22 @@
+ENTRI;
+Query salah, perbaiki query!
+
+ENTRI ENTRI;
+Query Error
+
+ENTRI Driver;
+Data tidak masuk!
+
+
+
+UBAH Driver 009 driver ri;
+
+ENTRI HAPUS Driver 011 cup cup;
+
+Daus
+
+ENTRI Driver 009 ri indo;
+ENTRI Team 002 ferrari ferrari;
+UBAH ENTRI Team 003 merc merc;
+UBAH Driver 007 driver max;
+HAPUS Driver 005 Lewis uhuy;

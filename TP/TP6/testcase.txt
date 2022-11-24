@@ -1,0 +1,111 @@
+3
+kuping_gajah 16200 2
+sus_coklat 45000 0.5
+bolu_boneka 40000 0.25
+2
+onde_onde 21000 3
+pang_pang 18125 4
+4
+stik_balado 21000 0.75
+stik_bawang 19000 2
+bidaran_manis 20000 1
+astor 15000 2
+150000
+s
+asc
+
+
+Daftar Snack:
+-------------------------------
+bolu_boneka 10000
+stik_balado 15750
+bidaran_manis 20000
+sus_coklat 22500
+astor 30000
+kuping_gajah 32400
+stik_bawang 38000
+onde_onde 63000
+pang_pang 72500
+===============================
+snack yang dibeli:
+-------------------------------
+bolu_boneka 10000
+stik_balado 15750
+bidaran_manis 20000
+sus_coklat 22500
+astor 30000
+kuping_gajah 32400
+===============================
+total pengeluaran : Rp. 130650
+sisa budget       : Rp. 19350
+===============================
+
+
+3
+pisang_krispi 28000 1
+keripik_tempe 48000 3
+kue_kering 20000 0.75
+2
+onde_onde 21000 1
+tortilla 31000 4
+2
+kencur_cikur 33000 2
+kacang_medan 52000 0.5
+100000
+b
+desc
+
+
+Daftar Snack:
+-------------------------------
+keripik_tempe 144000
+tortilla 124000
+kencur_cikur 66000
+pisang_krispi 28000
+kacang_medan 26000
+onde_onde 21000
+kue_kering 15000
+===============================
+snack yang dibeli:
+-------------------------------
+tidak ada snack yang dibeli
+===============================
+total pengeluaran : Rp. 0
+sisa budget       : Rp. 100000
+===============================
+
+
+2
+astor_bluberry 26000 0.5
+siomay_kering 33000 1
+2
+makaroni 25000 0.75
+dodol_garut 50000 0.5
+2
+keripik_pisang 22500 2
+kue_kering 20000 0.25
+150000
+i
+desc
+
+Daftar Snack:
+-------------------------------
+keripik_pisang 45000
+siomay_kering 33000
+dodol_garut 25000
+makaroni 18750
+astor_bluberry 13000
+kue_kering 5000
+===============================
+snack yang dibeli:
+-------------------------------
+keripik_pisang 45000
+siomay_kering 33000
+dodol_garut 25000
+makaroni 18750
+astor_bluberry 13000
+kue_kering 5000
+===============================
+total pengeluaran : Rp. 139750
+sisa budget       : Rp. 10250
+===============================

@@ -1,0 +1,11 @@
+3 2
+cindy 90 80 83
+adistya 60 65 54
+atika 88 35 45
+david 79 80 63
+hans 82 65 58
+yeremia 75 71 40
+cindy yeremia
+hans adistya
+atika david
+stop
